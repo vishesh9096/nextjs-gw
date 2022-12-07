@@ -12,7 +12,7 @@ function CourseStructure() {
     <div class="flex flex-col items-center gap-4 md:gap-6 sm:px-4 lg:px-8">
          <div class="flex flex-col  items-center gap-2 md:gap-3">
           <div class="w-28 md:w-36 h-32 md:h-40 bg-gray-100  overflow-hidden ">
-            <img src="/twelve.png" loading="lazy" alt="Photo by Radu Florin" class="w-full h-full object-cover object-center" />
+            <img src="./twelve.png" loading="lazy" alt="Photo by Radu Florin" class="w-full h-full object-cover object-center" />
           </div>
             <div class="text-[#21325E] text-2xl  font-bold text-center sm:text-left">Sessions</div>
         </div>
@@ -21,7 +21,7 @@ function CourseStructure() {
     <div class="flex flex-col items-center gap-4 md:gap-6 sm:px-4 lg:px-8">
          <div class="flex flex-col  items-center gap-2 md:gap-3">
           <div class="w-28 md:w-36 h-32 md:h-40 bg-gray-100  overflow-hidden ">
-            <img src="/three.png" loading="lazy" alt="Photo by Radu Florin" class="w-full  h-full object-cover object-center" />
+            <img src="./three.png" loading="lazy" alt="Photo by Radu Florin" class="w-full  h-full object-cover object-center" />
           </div>
             <div class="text-[#21325E] text-2xl  font-bold text-center sm:text-left">per Week</div>
         </div>
@@ -30,7 +30,7 @@ function CourseStructure() {
     <div class="flex flex-col items-center gap-4 md:gap-6 sm:px-4 lg:px-8">
          <div class="flex flex-col  items-center gap-2 md:gap-3">
           <div class="w-32 md:w-40 h-32 md:h-40 bg-gray-100  overflow-hidden ">
-            <img src="/fourty-five.png" loading="lazy" alt="Photo by Radu Florin" class="w-full h-full object-cover object-center" />
+            <img src="./fourty-five.png" loading="lazy" alt="Photo by Radu Florin" class="w-full h-full object-cover object-center" />
           </div>
             <div class="text-[#21325E] text-2xl  font-bold text-center sm:text-left">mins Each</div>
         </div>
