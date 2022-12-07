@@ -16,7 +16,7 @@ function CourseDetails() {
     <div class="flex flex-col items-center gap-4 md:gap-6 sm:px-4 lg:px-8">
          <div class="flex flex-col  items-center gap-2 md:gap-3">
           <div class="w-24 md:w-28 h-32 md:h-40 bg-gray-100  overflow-hidden ">
-            <img src="/Icon.png" loading="lazy" alt="Photo by Radu Florin" class="w-full h-full object-cover object-center" />
+            <img src="./Icon.png" loading="lazy" alt="Photo by Radu Florin" class="w-full h-full object-cover object-center" />
           </div>
             <div class="text-[#21325E] text-lg  font-bold text-center sm:text-left">Story</div>
         </div>
