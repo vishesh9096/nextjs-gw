@@ -5,7 +5,7 @@ function CourseStructure() {
     <div>
         <div class="bg-white py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-xl px-4 md:px-8 mx-auto">
-    <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-8 md:mb-12">The Course Structure</h2>
+    <h2 class="text-[#497A3E] text-2xl lg:text-3xl font-bold text-center mb-8 md:mb-12">The Course Structure</h2>
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-y-10 sm:gap-y-12 lg:divide-x">
 
