@@ -4,14 +4,15 @@ import Whatsapp from "components/Whatsapp"
 function SessionDetails() {
   return (
     <div class="bg-white py-6 sm:py-8 lg:py-12">
+        
   <div class="max-w-screen-md px-4 md:px-8 mx-auto">
     
 
-  <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-8 md:mb-12">Session Details</h2>
+  <h2 class="text-[#497A3E] text-2xl lg:text-3xl font-bold text-center mb-8 md:mb-12">Session Details</h2>
 
 
-    <div class="list-decimal  mb-6 md:mb-8">
-        <li className='font-bold'> 
+    <div class="  mb-6 md:mb-8">
+        <h1 className='font-bold'> 
         Session #1
         <div className=' pl-5 font-light text-gray-800'>
             
@@ -20,8 +21,8 @@ function SessionDetails() {
         b.     Course briefing & growth mindset concept overview for parents.
 
         </div>
-        </li>
-        <li className='font-bold'> 
+        </h1>
+        <h1 className='font-bold'> 
         Session #2 to #11
         <div className=' pl-5 font-light text-gray-800'>
             
@@ -32,8 +33,8 @@ function SessionDetails() {
         c.     Each session will be followed by a short quiz to validate comprehension and reinforce learnings.
 
         </div>
-        </li>
-        <li className='font-bold'> 
+        </h1>
+        <h1 className='font-bold'> 
         Session #12
         <div className=' pl-5 font-light text-gray-800'>
             
@@ -42,7 +43,7 @@ function SessionDetails() {
         b.     Share reinforcement tools w/parents
 
         </div>
-        </li>
+        </h1>
 
         <Whatsapp/>
         
