@@ -22,6 +22,16 @@ function Header() {
 
         <p class="text-[#21325E] md:text-lg xl:text-xl font-semibold mb-4 md:mb-6">See your child ace <br/>any subject or skill</p>
 
+<<<<<<< HEAD
+=======
+
+        <p class="text-gray-500 xl:text-lg leading-relaxed mb-8 md:mb-12">A 4-week story driven course 
+<br/>to teach your child how to
+<br/>learn and master any new skill or subject.</p>
+
+<div class="flex flex-col sm:flex-row sm:justify-center lg:justify-start gap-2.5">
+          <a href="https://wa.me/9644679096?text=hello" class="inline-block bg-[#21325E] hover:bg-[#497A3E] active:bg-[#21325E] focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">
+>>>>>>> 07c0911efe86622bf6a5f13d94d8e5d7e5c4595c
 
         <p class="text-gray-500 xl:text-lg leading-relaxed mb-8 md:mb-12">A 4-week story driven course 
 <br/>to teach your child how to
