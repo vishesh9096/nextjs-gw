@@ -28,10 +28,10 @@ function Header() {
 <br/>learn and master any new skill or subject.</p>
 
 <div class="flex flex-col sm:flex-row sm:justify-center lg:justify-start gap-2.5">
-          <a href="https://wa.me/9644679096?text=hello" class="inline-block bg-[#21325E] hover:bg-[#497A3E] active:bg-[#21325E] focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">
+          <a href="https://wa.me/9644679096?text=Hi.…I would like to be notified about your next batch please" class="inline-block bg-[#21325E] hover:bg-[#497A3E] active:bg-[#21325E] focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-5 sm:px-12 py-3">
 
-          <button class="text-xl  relative  text-white font-bold py-2 px-10 md:px-16 rounded-full">
-   Whatsapp us
+          <button class="text-lg sm:text-xl  relative  text-white font-bold py-2 px-10 md:px-16 rounded-full">
+   Notify me of next batch details
   <Image  className="p-2  "
                 src='https://cdn-icons-png.flaticon.com/512/2504/2504957.png'
                 layout='fill'
