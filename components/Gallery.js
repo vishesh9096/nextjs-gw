@@ -45,6 +45,7 @@ function Gallery() {
           <div class="text-[#21325E] text-lg  font-bold text-center sm:text-left">Reflection</div>
       </div>
   </div>
+  
 
   </div>
 </div>

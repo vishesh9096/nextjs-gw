@@ -7,7 +7,8 @@ import Whatsapp from "components/Whatsapp"
 function Body_Front() {
     return(
         <div>
-        <h1 class="text-3xl sm:text-4xl font-bold text-center bg-[#21325E] text-[#FFD300] pt-3">Outcomes We Promise From The Course <br />
+          
+        <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-center bg-[#21325E] text-[#FFD300] pt-3">Outcomes We Promise<br/> From The Course <br />
         
         </h1>
         <h1 className="text-white pt-3 text-lg bg-[#21325E] sm:text-3xl  text-center mb-4 md:mb-6 pb-3"> What will your child learn & achieve? </h1>
@@ -48,7 +49,7 @@ function Body_Front() {
       <li>The concept of a “Growth Mindset” with a 3-step practical process to develop one which can be used to learn and master new skills and subjects</li>
     </div>
 
-    <blockquote class="text-indigo-500 sm:text-lg italic border-l-4 pl-4 md:pl-6 mb-6 md:mb-8">"The intent is to create a strong learning foundation that your child can replicate across not only learning any skill or subject but through life itself."</blockquote>
+    <blockquote class="text-[#497A3E] sm:text-lg italic border-l-4 pl-4 md:pl-6 mb-6 md:mb-8">"The intent is to create a strong learning foundation that your child can replicate across not only learning any skill or subject but through life itself."</blockquote>
 
     
       <Whatsapp/>
