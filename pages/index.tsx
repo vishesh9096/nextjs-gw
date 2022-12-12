@@ -6,6 +6,7 @@ import Body_front from "../components/Body_front";
 import CourseDetails from "../components/CourseDetails"
 import CourseIncludes from "../components/CourseIncludes"
 import CourseStructure from "../components/CourseStructure"
+import App from "../components/App"
 import SessionDetails from "../components/SessionDetails"
 import { ToastContainer } from 'react-toastify';
 
@@ -27,6 +28,7 @@ const Home: NextPage = () => {
       <CourseIncludes/>
       <CourseStructure/>
       <SessionDetails/>
+      <App/>
       
 
 
