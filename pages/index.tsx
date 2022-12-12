@@ -7,6 +7,8 @@ import CourseDetails from "../components/CourseDetails"
 import CourseIncludes from "../components/CourseIncludes"
 import CourseStructure from "../components/CourseStructure"
 import SessionDetails from "../components/SessionDetails"
+import { ToastContainer } from 'react-toastify';
+
 
 const Home: NextPage = () => {
   return (
@@ -25,6 +27,8 @@ const Home: NextPage = () => {
       <CourseIncludes/>
       <CourseStructure/>
       <SessionDetails/>
+      
+
 
       
       
